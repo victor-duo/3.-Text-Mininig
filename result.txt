@@ -1,0 +1,3 @@
+(",",",","556"), (".",".","551"), ("the","DT","471"), ("to","TO","340"), ("a","DT","274"), ("and","CC","250"), ("of","IN","235"), ("in","IN","213"), ("that","IN","147"), ("that","DT","147"), 
+("Facebook","NE","21"), ("Google","NE","16"), ("Microsoft","NE","15"), ("Amazon","NE","14"), ("Spotify","NE","13"), ("Trump","NE","11"), ("CNN","NE","11"), ("India","NE","10"), ("CEO","NE","10"), ("Starsky","NE","9"), 
+("more","JJR","38"), ("self-driving","JJ","27"), ("test","JJS","27"), ("Facebook","NNP","21"), ("new","JJ","20"), ("other","JJ","19"), ("Google","NNP","16"), ("public","JJ","16"), ("last","JJ","15"), ("Microsoft","NNP","15"), 

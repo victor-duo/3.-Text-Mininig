@@ -1,0 +1,589 @@
+A test driver was behind the wheel of a self-driving Uber vehicle when it struck and killed a woman in Tempe, Arizona on Sunday night.
+
+Autonomous car companies have test drivers on board so they can take over in case of emergencies.
+
+But that safeguard wasn't enough to prevent the death 49-year-old Elaine Herzberg. Tempe police say Herzberg was walking her bicycle across a street when Uber's Volvo XC90 SUV hit her.
+
+It's unclear as of now what exactly happened. The test driver, Rafaela Vasquez, has not been charged in the incident.
+
+But it's thrown the role of test drivers into the spotlight.
+
+Test drivers can't share too many details about their roles because companies typically require them to sign non-disclosure agreement. But here's what we do know about the job:
+
+Why would a self-driving car have a human behind the wheel?
+
+Automakers, tech companies and startups are all developing self-driving cars, but the tech is far from perfect. Companies hire human test drivers to sit behind the wheel of self-driving vehicles and take over when necessary, say, if a car's sensors fail to recognize a bicyclist, pedestrian or other vehicle -- or if the software system crashes.
+
+What does a self-driving car test driver do?
+
+Generally, a test driver sits behind the wheel and "ghost drives" the vehicle for six to eight hours a day. Some test drivers hover their foot above the brake pedal, so they're ready to intervene quickly if needed. The test driver also monitors the vehicle's progress. If the car or truck finds itself in a tough spot, he or she will take manual control of the vehicle.
+
+According to Michael Ramsey, a research director at Gartner's CIO Research Group, safety drivers are typically deployed to get the vehicles out of "weird situations," such as getting stuck behind a parked food truck.
+
+"It's extremely hard, in an emergency situation, to hand it over to a human reliably," he said. "It begs the question whether anyone -- human or robot -- could have prevented Sunday's accident?"
+Mark Zuckerberg is firing back at Tim Cook.
+Facebook executive in 2016 that argued growth should be prioritized even if users were harmed.
+
+The memo, written by Facebook executive Andrew "Boz" Bosworth, argued that the social network should focus on its core mission of connecting people even if that work had negative consequences.
+
+"Maybe it costs a life by exposing someone to bullies. Maybe someone dies in a terrorist attack coordinated on our tools. And still we connect people." Bosworth wrote in the memo, which was published Thursday by BuzzFeed News.
+
+Zuckerberg said in a statement to CNN on Friday that "Boz is a talented leader who says many provocative things." But the chief executive said he disagreed with the memo's message.
+
+"This was one that most people at Facebook including myself disagreed with strongly. We've never believed the ends justify the means. We recognize that connecting people isn't enough by itself," Zuckerberg said. 
+ Facebook (FB) has been under intense pressure after admitting that a company linked to President Donald Trump's campaign had accessed and improperly stored a huge trove of its user data.
+
+The company is now facing tough questions about user privacy, and the role it plays in communities around the globe.
+
+Zuckerberg said in his statement on Friday that the company is now putting less emphasis on growth, and focusing instead on bringing people "closer together."
+
+"We changed our whole mission and company focus to reflect this last year," he said.
+
+Bosworth acknowledged in a post on Twitter that he had authored the memo, which was titled "The Ugly." He claimed, however, that he "didn't even agree with it when I wrote it." 
+"The purpose of this post, like many others I have written internally, was to bring to the surface issues I felt deserved more discussion with the broader company," he wrote. "Having a debate around hard topics like these is a critical part of our process." 
+The Facebook (FB) CEO defended his company's business model in an interview published by Vox on Monday, arguing that recent criticism from his counterpart at Apple was unfounded.
+
+Cook recently called for increased regulation of social media, and questioned the practice of monetizing user data on free platforms by selling ads that allow advertisers to target specific groups.
+
+"You know, I find that argument, that if you're not paying that somehow we can't care about you, to be extremely glib. And not at all aligned with the truth," Zuckerberg told Vox in response to a question about Cook's criticism.
+
+"The reality here is that if you want to build a service that helps connect everyone in the world, then there are a lot of people who can't afford to pay," he added. "Having an advertising-supported model is the only rational model that can support building this service."
+
+Facebook has been under intense pressure after it admitted that Cambridge Analytica, a company that worked on President Donald Trump's 2016 campaign, had accessed and improperly stored a huge trove of its user data.
+
+Cook was asked last month how he would handle the crisis.
+
+"I wouldn't be in this situation," the Apple (AAPL) CEO told reporters from Recode and MSNBC.
+
+"The truth is, we could make a ton of money if we monetized our customer — if our customer was our product," he said. "We've elected not to do that." 
+ Apple executives have in recent weeks used privacy and transparency as a sales pitch, drawing a contrast with other companies -- especially Facebook -- in Silicon Valley.
+
+Apple makes the vast majority of its money selling hardware, including iPhones, iPads and Macs. Facebook, on the other hand, has built an entire business on selling ads that target users based on information they provide. 
+ Cook called privacy a "human right" and "a civil liberty" during his interview with Recode and MSNBC. When "all of a sudden something is chasing me around the web," Cook said, he finds it "creepy."
+
+Zuckerberg told Vox, however, that Facebook is dedicated "serving people," despite its reliance on advertising.
+
+"If you want to build a service which is not just serving rich people, then you need to have something that people can afford," Zuckerberg said.
+
+"I think it's important that we don't all get Stockholm Syndrome and let the companies that work hard to charge you more convince you that they actually care more about you," he added. 
+The exact responsibilities of a test driver vary depending on the company they work for.
+
+Test drivers provide feedback to the engineering team, which develops the software powering the car. They also monitor how the vehicle is performing -- for instance, if it's accelerating and braking in a timely fashion.
+
+At some companies, test drivers work in teams, with one person in the passenger seat, taking notes on a laptop and monitoring data feeds from the car's sensors.
+
+How many test drivers are there?
+
+Uber employs about 400 human safety drivers like Vasquez. They sit behind the wheel of its 200 autonomous vehicles spanning across Pittsburgh, Phoenix, Toronto, Tempe and San Francisco. There are no industry wide figures available.
+
+How much is a test driver paid?
+
+Exact wages vary at different companies. Cruise, the self-driving arm of General Motors (GENERAL MOTORS), has advertised positions that pay $23 an hour. Meanwhile, Waymo, the self-driving entity of Google's parent company, has posted jobs offering $20 an hour.
+
+Uber declined to disclose how much it pays its safety drivers.
+
+Test drivers do not require advanced degrees in engineering or computer science. The engineers who build software and hardware for self-driving cars are in short supply. Their salaries are high -- often more than $150,000 a year.
+
+From a business perspective, it makes more sense to delegate test driving work to employees who don't command such high salaries.
+
+"For the most part, the people doing the rides have just been trained -- they're not engineers, they're not vehicle engineers," said Jeffrey Wishart, Ph.D., a clinical assistant professor of automotive systems at Arizona State University.
+
+What qualifications do I need to be a self-driving test driver?
+
+That varies depending on the state and company.
+
+Generally, a driver's license and a good driving record are all that's required. California requires that self-driving companies maintain a training program for its test drivers.
+
+Some job postings reviewed by CNN look for drivers with previous delivery experience, the ability to type over 50 words per minute and conduct basic vehicle checks. Military experience is considered a plus -- a large subset of Uber's test drivers have military backgrounds, a spokesperson for the company told CNN.
+
+Uber, for example, requires individuals to undergo three weeks of training, including a manual driver test, written assessment, as well as classroom and public road training.
+
+The program must also include defensive driver training, such as experience recovering from hazardous driving situations.
+
+Some companies go as far as to test a driver's reaction time before hiring them, since test drivers need to respond quickly if the vehicle makes a mistake.
+
+What about people with criminal records?
+
+According to a filing from the Arizona Department of Corrections viewed by CNN, Vasquez -- the driver in the recent Uber crash -- was a convicted felon.
+
+Vasquez was in prison for nearly four years for unsworn falsification, the legal term for making a false written statement known to be true, and attempted armed robbery. Vasquez was released in 2005.
+
+Uber complies with local laws, but in general, its standard ridesharing drivers can't have a criminal record that includes a conviction for a felony, violent crime or sexual offenses in the last seven years.
+
+There were no signs that Vasquez was impaired after the collision, Tempe police spokesman Sgt. Ronald Elcock said at a press conference. 
+
+Like all mediocre photographers, Google's Clips camera occasionally lucks into some good pictures.
+
+The new $249 gadget, released in February, automates much of the job of a certain kind of photographer. You place the 2-inch high white square on a surface, preferably someplace frequented by children or pets. It automatically captures any "candid" scenes it determines are worthwhile with its wide-angle lens.
+
+I spent a week with the camera, planting it on countertops, floors and shelves. Unfortunately my cat and bunny both passed away last year, so Clips only had children to work with. Luckily, my children are extremely good looking.
+
+Even so, the resulting photos and videos had a common, soulless look to them. The wide-angle meant they were busy, with too much in focus and no appealing composition.
+
+Essentially, Clips combines the hands-off approach of a surveillance camera with the visual style of a surveillance camera.
+
+And yet, for a camera that silently watches you, Clips doesn't feel creepy. Google (GOOG) has been careful to avoid raising any privacy red flags. It stores all images and videos on the device. You preview photos using the Clips Android or iOS app over a one-to-one WiFI connection, and manually choose which ones to save to your smartphone. 
+While it might not succeed as a camera, it does raise interesting questions about what makes a photograph "good," and if you can ever program an algorithm to make art. 
+ To come up with its special sauce, the Clips team asked professional photographers working at the company what they believe makes a good photo.
+
+The software looks for children, animals, and faces, preferably within three-to-eight feet of the lens. Clips likes movement, but tries to avoid blurry photos and can tell when something is blocking the lens, like the hand of a curious child. It learns the faces of the people you save the most and takes more pictures of them. It is programmed to have a preference for happy, smiling faces. 
+The year after Facebook was founded, privacy advocates complained that an internet company built on tracking user habits was "constantly finding new ways to exploit personal information."
+
+Except they weren't talking about Facebook. They were worried about Amazon (AMZN).
+
+The article, published in 2005 by the Associated Press, addressed concerns that Amazon was amassing too much data about what its customers bought, thought about buying or wished others would buy for them -- not to mention credit card information.
+
+For nearly as long as the current crop of internet giants have existed, there has been scrutiny over how much data they collect and how it's used. And yet we've only continued to hand over more and more of our personal information to these businesses as they've become more embedded in our daily lives.
+
+Call it the grand bargain. You let a tech company eavesdrop on your searches, contacts and whereabouts. In return, the company directs you to the perfect people, products and experiences, free of charge. Or, as Amazon CTO Werner Vogels put it in the 2005 article: "We collect as much information as possible such that we can provide you with the best feedback."
+
+Now, the calculus may be changing. News broke this month that Cambridge Analytica, a data firm with ties to President Donald Trump's campaign, reportedly accessed information from about 50 million Facebook users without their knowledge.
+
+The resulting scandal has sparked a long awaited data awakening among internet users.
+
+"People are digging in and looking at the data that's been collected on them," says Ethan Zuckerman, director of the Center for Civic Media at MIT. "In the past, a lot of us have been willing to say we understand we are in this constant dance with commercial providers."
+
+What's changed is people waking up to the fact that their data isn't just used to sell products, but also potentially to affect elections. "It just feels different," Zuckerman said.
+
+Numerous outlets have published articles in recent days detailing the vast amount of data Facebook has collected on its users. In response to a CNN article on the subject, dozens of readers wrote to the author with questions about what Facebook knows and whether the information is ever really deleted.
+
+It's not just Facebook. This week, hundreds of thousands of people engaged with a Twitter thread from a web developer sharing the trove of information that Google (GOOGL) collects, including web search history, location data and hobbies.
+
+Even some experts were taken aback by what they found.
+
+"I had turned off YouTube history under my Google account settings. Today, I find out YouTube has been keeping my history for years anyway," Zeynep Tufekci, a sociologist who studies the intersection of emerging technology and society, wrote on Twitter (TWTR). "I track this stuff for a living. HOW THE HECK IS AN ORDINARY PERSON SUPPOSED TO MANAGE THIS?" 
+SoftBank and Saudi Arabia are planning to cash in on Middle Eastern sunshine by building a $200 billion solar power project in the oil-rich kingdom.
+
+The Japanese tech company's billionaire CEO, Masayoshi Son, and Saudi Crown Prince Mohammed bin Salman announced plans late Tuesday in New York for what they say is the world's biggest solar project.
+
+The huge project will be partially bankrolled by the massive $93 billion SoftBank Vision Fund, of which Saudi Arabia is the biggest backer.
+
+The initial investment is $5 billion, of which $1 billion will come from the SoftBank (SFTBF) fund. The rest will come from loans that will be paid off through revenue generated by selling electricity from the vast solar project, Son said. 
+ The project is so big that it's expected to take more than a decade to finish. The current target is for it to be completed by 2030. Its massive scale will create entire industries in Saudi for the manufacturing and installation of solar equipment.
+
+That will include training facilities and a research and development center "so the new technology will continue to evolve," Son said.
+
+The project will eventually generate 200 gigawatts of energy, far more than any existing solar project. It would provide enough electricity to simultaneously power about 20 billion LED light bulbs. 
+ The plans aren't set in stone, though. Son and bin Salman signed a memorandum of understanding for the project on Tuesday rather than a formal, binding agreement.
+
+The Saudi crown prince has been trying to wean the country off its addiction to oil and diversify the economy into new areas. Those efforts have included high-profile investments in technology and plans for a vast new $500 billion city.
+
+Last year, Saudi Arabia pledged $45 billion to invest in technology companies around the world. It's also trying to create a thriving startup scene at home. 
+ The new solar project will involve the construction of solar parks throughout Saudi Arabia and a large battery to store the energy generated by the panels.
+
+Son estimated that the project will create 100,000 jobs and save Saudi Arabia $40 billion in power generation costs. He also predicted it would add $12 billion to the country's gross domestic product, although he didn't say over what period.
+
+Installation of the solar panels is planned to start this year, and the project should start producing electricity by the middle of next year.
+
+The first solar panels will be imported from an established manufacturer, Son said, but all the equipment for the project will be manufactured in Saudi Arabia after the first couple of years. 
+YouTube is getting tougher on gun videos.
+
+The video platform published new guidelines on Monday that ban videos showing how to assemble a firearm or install certain accessories such as high-capacity magazines.
+
+The new regulations, first reported by Bloomberg, come as the Google-owned platform has come under criticism for lax policies regarding what content users can post.
+
+"We routinely make updates and adjustments to our enforcement guidelines across all of our policies. While we've long prohibited the sale of firearms, we recently notified creators of updates we will be making around content promoting the sale or manufacture of firearms and their accessories, specifically, items like ammunition, gatling triggers, and drop-in auto sears," a YouTube spokesperson said in a statement.
+
+The spokesperson said YouTube will begin enforcing the new guidelines in April. The company said it is not banning gun demonstration videos.
+
+Among the new rules: No videos that intend to sell a firearm or certain accessories that turn a firearm into an automatic weapon are allowed. No videos that provide instructions on making or installing a gun, ammunition, high-capacity magazine, homemade silencer or other certain accessories will be allowed. Neither will videos showing how to convert a firearm into an automatic weapon.
+
+For years, YouTube has banned firearm sales on its platform. The platform has been gradually increasing restrictions on certain gun videos. A few days after the October mass shooting at a Las Vegas concert, YouTube banned instructional videos that showed how to install and use a bump stock, which increases the number of bullets a rifle can fire. 
+Dr. Timothy Carone is a former astrophysicist and an associate teaching professor at the University of Notre Dame's Mendoza College of Business. Carone specializes in automation and artificial intelligence and is the author of "Future Automation -- Changes to Lives and to Businesses." The opinions expressed in this article belong to him.
+
+We are in the midst of a technological revolution.
+
+Over the past 40 years, we've witnessed rapid changes to technology and discovered new ways of using it that were unanticipated.
+
+Unfortunately, this revolution has had some gut-wrenching implications that we were unprepared to accommodate. In some cases, it's clear that technology is moving far faster than our culture.
+
+Uber's fatal self-driving car crash in Tempe, Arizona is the latest example.
+
+On Sunday night, a self-driving Uber SUV struck and killed 49-year-old Elaine Herzberg as she walked her bicycle across a street. The crash occurred while Rafael Vasquez, a 44-year-old test driver from Uber, was behind the wheel, according to the Tempe police.
+
+It's believed to be the first fatality involving a fully autonomous car. Uber responded by removing self-driving cars from the roads.
+
+As we continue testing and perfecting the technology behind self-driving cars, there will be more accidents like this. 
+ Self-driving cars may seem like the logical step in the evolution of personal transportation. They are conceptually simple, easy to understand and in many ways, very desirable.
+
+But they are not cars in the usual sense. These cars are complex systems. They are the most complex robots that humans have built.
+
+Self-driving cars contain hundreds of computer processors. The amount of software these processors run is greater than the combined amount of software in the Chevy Volt, the F-35 fighter jet and Facebook.
+
+The software contains many different types of artificial intelligence capabilities that can detect an object near a car, identify the object and decide what to do next with the car.
+
+Complex systems like this take a decade or more to mature into dependable operation.
+
+Google started testing its first self-driving car in 2009. The effort continues almost 10 years later and will continue for another 10 years, at least.
+
+The same timeframe is true for the other self-driving car manufacturers. They have solved the basic problems with self-driving cars. Now, they're in the process of putting cars on the road.
+
+There will inevitably be accidents during this transitional period. 
+ We won't understand how they occurred, nor will we be able to interrogate a self-driving car to ask why it drove off the bridge with the family of five in it. We will have to deal with more deaths and the destruction of property that to us appears unfair and arbitrary.
+
+In the meantime, test drivers will need to be the ones to make the tough choices behind the wheel.
+
+Driving a car can seem like a rote process, but it is not. We make complex decisions and value judgments continually when we are behind the wheel, and eventually, so will the car.
+
+The danger with being in this transitional period is that companies on the frontline of this technology will be forced to slow their efforts due to unnecessary regulatory interference.
+
+Complex systems, including self-driving cars, are never free of defects. But the researchers and innovators behind self-driving technology argue that autonomous technology will eventually make driving much safer some day because it will take unpredictable human behavior out of the equation.
+
+Therefore, calls to stop all self-driving cars from operating on the roads until they are proven safe demonstrate a true lack of understanding of how complex systems are made operational. This approach would have slowed down progress with aviation safety in the 20th century so that we would not now have the safe skies we do. 
+ The federal government and its partners in the state and local governments need to understand that they cannot change the process for how complex systems evolve over time.
+
+Their role is to ensure that when accidents occur, there is the proper analysis of what happened and that this information is available for anyone to use. This is the time for increasing transparency into the maturation process, not stopping it.
+
+According to the National Safety Council, a nonprofit that promotes health and safety in the US, 110 people will be killed today, tomorrow and the next day by traditional cars.
+
+Today, we need to maintain the momentum of self-driving car implementation so that in 10 years, that number is far lower instead of staying the same because we feared technology. 
+Microsoft fired roughly 20 employees for sexual harassment complaints filed in the course of a single year, according to a memo from the company's top human resources executive.
+
+Kathleen Hogan, Microsoft's (MSFT) chief people officer, told employees on Thursday that the company received 83 sexual harassment claims in the United States from July 2016 through June 2017.
+
+"Nearly 50% were found to be supported in part or in full following the investigation, and more than half of these resulted in termination of an employee who engaged in unacceptable behavior," Hogan wrote in the memo to all employees.
+
+The new details in the memo are an attempt to push back against the idea that Microsoft doesn't take harassment and discrimination complaints seriously enough, after unflattering claims were made public in a court document this week.
+
+The documents, from a lawsuit filed by a former employee, alleged that women at Microsoft filed 238 complaints about harassment and discrimination with the company's HR department between 2010 and 2016.
+
+The lawsuit said that only one of the 118 gender discrimination complaints was considered "founded" by Microsoft's employment relations investigations team. 
+ In her memo, Hogan said reports suggesting Microsoft doesn't "take these issues seriously and don't investigate complaints thoroughly" included "inaccurate and misleading data."
+
+"We want people to be able to raise their concerns. We take these concerns seriously and we investigate them thoroughly. And where we find issues, we take appropriate action," she wrote.
+
+In addition to the harassment figures, Hogan also said Microsoft received 84 complaints about gender discrimination during the same time period. About 10% of those complaints "were found to be supported in part or in full," she said.
+
+Hogan stressed that Microsoft has more than 65,000 employees in the United States alone.
+
+The lawsuit and Microsoft's response come at a time when the tech industry, like much of corporate America, is under scrutiny for its treatment of women in the workplace.
+
+Top venture capitalists have resigned amid charges of harassment. Google (GOOG) has found itself in the crosshairs of the Labor Department over gender pay disparities. And Uber fired 20 employees over a sexual harassment probe last year. 
+The worlds of makeup and artificial intelligence came together on Friday.
+
+L'Oreal (LRLCY), one of the world's biggest cosmetics companies, has purchased ModiFace, a Canadian firm that specializes in artificial intelligence and augmented reality technology.
+
+It's the first tech acquisition in L'Oreal's 109-year history. The French company is hoping it will bolster its previous work on virtual beauty products.
+
+Lubomira Rochet, the chief digital officer at L'Oreal, said that ModiFace's engineers, researchers and scientists would help it develop apps and in-store services.
+
+The two companies are working on technology that can scan a human face and provide suggestions for skin-care products based on facial wrinkles, pores, hydration levels and pigmentation.
+
+"We really want to invent the future of the beauty experience to help our consumers discover, try and buy... the best products and brands for them," Rochet told CNN.
+
+Related: This futuristic salon lets you preview hair colors virtually
+
+L'Oreal, which owns brands including Kiehl's, Maybelline and Garnier, is an industry leader when it comes to technology. It made waves in 2014 when it launched a virtual makeup app that has been downloaded over 20 million times.
+
+In January, it updated an app developed with ModiFace that allows users to scan their face with their phone and try out different hair colors.
+
+L'Oreal has long worked to develop its online presence, said Pinar Ergun, an analyst at UBS. It has increased its advertising on digital platforms like Facebook (FB), and paid social media "influencers" to feature its products.
+
+The efforts have paid off, with 8% of revenue now coming from e-commerce channels.
+
+"They have been investing quite a bit in digital," said Ergun. "If you're not online, you're definitely falling behind."
+
+Anubhav Malhotra, an analyst at the investment bank Liberum, said the purchase would also deprive rivals of ModiFace's services.
+
+ModiFace had worked with the cosmetics brand Benefit, which is owned by LVMH (LVMHF), on an app that allows customers to virtually "try on" eyebrow styles. 
+Japanese regulators have raided Amazon's Tokyo headquarters for the second time in two years.
+
+An Amazon Japan spokeswoman declined to go into details on the investigation, saying in a statement Friday that the company is fully cooperating with authorities.
+
+Japan's Fair Trade Commission is investigating whether Amazon is forcing sellers to bear all or part of the losses incurred when Amazon offers bargain discounts online, according to a government official who asked not to be identified because he is not authorized to speak publicly about the investigation.
+
+Japan's antitrust watchdog probed Amazon (AMZN) last year, accusing the company of forcing sellers to offer "the lowest price and the richest lineup of goods" on its online marketplace. 
+ The commission closed the investigation after Amazon amended sellers' contracts, dropping clauses that required retailers to set prices equal to or lower than those on rival ecommerce websites.
+
+Japan is a lucrative market for Amazon. Home to more than 75 million online shoppers, the country is the world's third-biggest ecommerce market after the US and China.
+
+It is also key to Amazon's global ambitions. Japan is Amazon's second-largest market outside the US, after Germany, with sales of $10.8 billion in 2016.
+
+Amazon edged past Japanese rival Rakuten (RKUNF) in 2016. It was the first year since launching in Japan in 2000 that Amazon had taken a bigger market share than the local firm. 
+Next month, Spotify will begin trading on the New York Stock Exchange with a public debut unlike any other.
+
+Spotify execs won't ring a bell on the stock exchange on the day it goes public. The CEO won't do any interviews on the trading floor. The team won't even throw a party for itself to celebrate the milestone.
+
+"For us, going public has never really been about the pomp or circumstance of it all," Daniel Ek, Spotify's CEO and founder, said at an investor event Thursday. The company used the event to announce plans to begin trading on April 3.
+
+The absence of Wall Street ceremony only adds to the unusual nature of Spotify's IPO. The streaming music company filed paperwork last month to list its shares directly on the NYSE. Unlike traditional IPOs, Spotify will not raise new capital. Instead it will simply list existing shares held by company insiders.
+
+Spotify also will not rely on underwriters to help assess market demand and set an initial price for the stock. As a result, Spotify said in its filing that "the trading volume and price of our ordinary shares may be more volatile."
+
+On Thursday, before executives discussed the company's business fundamentals and ambitions, they first had to address the elephant in the room: choosing an atypical IPO process with clear risks.
+
+"The traditional model for taking a company public just isn't a very good fit for us," Ek said in his opening remarks on stage, forfeiting Wall Street attire for white sneakers, a white t-shirt and a blazer. 
+ A key sticking point, according to Ek, is the lockup period that is customary when companies go public. The lockup agreement is intended to help stabilize the stock by preventing employees and early investors from dumping shares immediately after a company goes public.
+
+"We have allowed shareholders and employees to buy and sell stock for years," Ek said. "That shouldn't stop just because our stock is more widely owned." 
+ In a video explainer published on Spotify's investor page shortly before the event kicked off, the company said it is "well capitalized" and does not need to raise new capital through a public offering.
+
+"There's no reason to dilute our existing shareholders to raise money we don't need," the company said in the video.
+
+The goal of this public offering, according to Spotify, is simply to "offer liquidity for shareholders."
+
+Spotify was founded more than a decade ago and helped shift the music industry from the era of illegal downloads to legal streaming on demand. It upended Pandora (P)'s business and has grown in spite of threats from larger rivals like Apple (AAPL) and Google (GOOGL).
+
+The service has 159 million monthly users, 71 million of which pay for a premium subscription, according to its IPO paperwork. Apple Music, launched in 2015, has around half that amount.
+
+Spotify sales grew to nearly $5 billion in 2017, up from about $3.6 billion in the year prior. But its losses more than doubled to $1.5 billion as it is hit by the cost of licensing content.
+
+At the investor event Thursday, Spotify execs talked up its global scale, brand awareness, algorithmic music curation and tools provided for music creators to connect with fans.
+
+"We don't really think of Spotify as just a streaming music anymore. Instead we are building a vibrant ecosystem of macro and micro markets around the world that is creating an opportunity for artists of every level of fame," Ek said. "I think this puts us on a growth trajectory of generational proportions." 
+President Donald Trump will sit down with billionaire Microsoft founder and philanthropist Bill Gates on Thursday.
+
+The two are scheduled to meet this afternoon inside the Oval Office, according to Trump's public schedule released by the White House. The meeting is closed to press.
+
+A spokesperson for Gates did not immediately respond to a request for comment about what will be discussed.
+
+A source familiar with the agenda told CNN that foreign aid will likely be a topic of discussion. Gates and his wife Melinda spoke out against Trump's proposed cuts to foreign aid in the 2018 annual letter for their philanthropic foundation, saying US efforts to combat disease and poverty abroad "saves lives," "creates US jobs," and "make Americans more secure." 
+ Trump and Gates will also likely talk about funding for scientific research, according to CNN's source. Gates has emphasized the importance of these investments in prior meetings with Trump and encouraged the president to back an innovation agenda supporting research in health, education and energy.
+
+Gates previously met with Trump in December 2016 at Trump Tower and again last March.
+
+Trump is also reportedly looking to impose tariffs on up to $60 billion of Chinese imports, which would have major implications for US technology and telecommunications sectors -- another topic that could be discussed.
+
+One more potential topic: Larry Kudlow's economic policy, the source said. Kudlow, a former CNBC commentator who was recently appointed as the director of the National Economic Council, appears to support a tough trade position toward China. 
+ Gates has also spoken out about concerns related to the administration's "America First" worldview.
+
+"My view is that engaging with the world has proven over time to benefit everyone, including Americans, more than withdrawing does," the 2018 annual letter said. "Even if we measured everything the government did only by how much it helped American citizens, global engagement would still be a smart investment." 
+Advertisements for bitcoin and other virtual currencies will soon disappear from Google.
+
+The search company said Wednesday that it will ban ads that promote cryptocurrencies starting in June, part of an effort to clear unregulated financial products off its platform.
+
+The move follows similar steps by Facebook (FB) -- a big rival for advertising dollars -- which shelved all virtual currency ads in January. 
+ Google (GOOGL) announced the change in an update to its advertising policy. The ban applies to ads that promote cryptocurrencies and exchanges, as well as initial coin offerings, which allow companies to raise money by selling virtual currency.
+
+"Improving the ads experience across the web, whether that's removing harmful ads or intrusive ads, will continue to be a top priority for us," said Scott Spencer, Google's director of sustainable ads, in a blog post.
+
+The post did not explain why digital currencies may be harmful, and company representatives did not immediately respond to a request for comment.
+
+Google said it would also ban ads for some other risky financial products, like binary options, which offer investors all-or-nothing returns.
+
+Facebook said earlier this year that its restrictions were designed to prevent scammers taking advantage of users.
+
+Unilever to Facebook and Google: Clean up 'swamp' or we'll pull ads
+
+Big advertisers have demanded that both companies, which gobbled up more than 60% of spending on digital ads in 2017, do more to remove objectionable and illegal material from their platforms.
+
+Related: I bought $250 in bitcoin. Here's what I learned
+
+Google's move to purge virtual currency ads comes just days after the US Securities and Exchange Commission warned that traders should only buy and sell cryptocurrencies on exchanges registered with the financial regulator. Digital currencies aren't regulated by any central bank or government entity.
+
+The price of bitcoin -- the most heavily traded cryptocurrency -- slipped by about 1.5% following Google's announcement, according to data from Coindesk. The volatile digital currency has lost over half of its value since topping $19,300 in December. 
+One of the most striking concept cars at the Geneva International Motor Show was, not surprisingly, created by the designers at Aston Martin. It was the Lagonda Vision X concept, and it provided a preview of a future Lagonda line of fully electric cars.
+
+Besides being all electric, Aston Martin promises that Lagonda models will have full autonomous driving technology.
+
+With a sweeping profile that arches from nose to tail, the Lagonda concept consists mostly of occupant space. With no engine, almost all the space between the wheels can be used for people.
+
+While the doors open outward from the center, part of the roof also opens upward, allowing passengers to step in and sit without having to crouch. 
+The steering wheel can be moved so that it sits in front of either the left or right front seat, allowing the car to be comfortably driven in countries where vehicles drive on the right or on the left. That's especially important in a car from the UK where cars drive on the left. The steering wheel can also be fully retracted when the car is driving itself. 
+The Lagonda's interior includes materials such as wood and carbon fiber that are often found in cars, but they're mixed with wool and silk, which are less often seen inside an automobile. 
+ Aston Martin said Lagonda cars could come to market as early as 2021, although there is no firm timeline. In addition to the full-size concept car, smaller models of a car and an SUV for the brand were also displayed.
+
+The Lagonda name was originally attached to a separate carmaker that Aston Martin purchased out of bankruptcy in 1947. It has since had an on-and-off existence as a car brand, having been discontinued and revived a few times over the many decades since.
+
+The most famous Lagonda model is probably the 1976 V8 Lagonda, an aggressively wedge-shaped sedan with what was advanced technology for the time. It was known for its futuristic-looking interior with few mechanical buttons or knobs, and rows of electronic switches instead. 
+Smugglers in China are going high-tech.
+
+Chinese authorities busted a criminal ring that allegedly used drones to smuggle almost $80 million worth of Apple (AAPL) iPhones and other smartphones, according to state media.
+
+Chinese customs officials told state media the suspects illegally transported up to 15,000 devices per night across the border from Hong Kong to the neighboring city of Shenzhen. 
+ Authorities said the gang used drones to suspend two, 200 meter-long cables between buildings on either side of the border. Bags carrying smartphones were attached to the cables and then pulled over to Shenzhen.
+
+Customs officers said it was the first case they had encountered where drones were used to smuggle goods, according to state media. The bust was made in February as part of a joint operation between authorities in the two cities. 
+ China has stepped up efforts to regulate use of drones in the country. Last year, the government brought in rules including a requirement for drones over a certain weight to be registered under their owners' real names, according to state media.
+
+The crackdown followed an incident where drones were flown illegally over an airport in southwestern China, causing chaos for local air traffic. 
+Unlike some employers, the government in South Korea's capital city wants its staffers to work less, not more.
+
+And it's going as far as turning off the lights and shutting down employees' computers to stop them from staying late.
+
+Starting this week, authorities will turn off the power at Seoul City Hall by 8 p.m. each Friday to discourage employees from working overtime at night. In May, the shutdown will move forward to 7 p.m. 
+ Working long hours is a way of life in South Korea, where it's common to start early in the morning and finish late at night. Japan is also wrestling with the social consequences of overwork.
+
+South Korean employers are often reluctant to give staffers too much time off at once, even if they're entitled to it, said Dr. Ijin Hong, a professor of welfare state research at Yonsei University in Seoul. 
+ Government employees in particular are known for their punishing schedules. In South Korea, they work roughly 1,000 more hours per year than the average in other developed nations, according to a government survey released in January.
+
+By introducing the shutdown on Friday evenings, the Seoul government hopes to set an example for companies to do more to promote a sense of work-life balance, said Hojin Choi, a spokesperson for the city's government.
+
+Enforcing the new routine may be easier said than done. The government had previously pushed for lights to be turned out at 6 p.m. on Fridays, but that led to a lot of requests for exemptions, it said.
+
+This latest measure of turning off staffers' computers goes a step further. And unlike before, the government says it will no longer approve any exceptions or requests for overtime work past the cutoff time.
+
+Hong, the Yonsei University professor, applauded the campaign, saying she thought it would be effective in helping curb workers' hours.
+
+"This is really unprecedented," she said. 
+ Recently, the issue of overwork has become a hot topic in the country. President Moon Jae-in has promised to cut working hours and even gave workers an extra public holiday last year.
+
+Unlike in the past, "it's becoming more acceptable to point out that there are problems" in the nation's work culture, Hong said.
+
+But Seoul's Friday night shutdown is likely to be a largely symbolic move unless companies start advocating for employees' rights to shorter hours while demonstrating that they can still be productive and profitable, she added.
+
+At City Hall, Choi said that most workers have welcomed the change, though some were worried that they wouldn't be able to finish their work on time.
+
+There is concern, she added, that people will simply take their work home. 
+A preliminary decision from a California superior court judge in Los Angeles could affect thousands of coffee shops including Starbucks, 7-Eleven and even your local gas station.
+The shops may have to put up a warning that tells customers there is a possible cancer risk linked to their morning jolt of java. The court said in a statement Wednesday that the companies "failed to meet their burden of proof on their Alternative Significant Risk Level affirmative defense" and ruled against them.
+California keeps a list of chemicals it considers possible causes of cancer. One of them is acrylamide, which is created when coffee beans are roasted. The chemical stays in the coffee you drink in what the court called a "high amount."
+A lawsuit first filed in Los Angeles County Superior Court in 2010 by the nonprofit Council for Education and Research on Toxics targeted several companies that make or sell coffee. The suit asked for damages and a label to warn consumers. 
+"It's not a final decision yet, but I do think this is big news, and I'm much relieved after eight years of work on this," said attorney Raphael Metzger. "It's a good day for public health."
+The initial court documents state that, under the California Safe Drinking Water and Toxic Enforcement Act of 1986, also known as Proposition 65, businesses must give customers a "clear and reasonable warning" about the presence of high levels of this chemical, that is consider toxic and carcinogenic and can impact a drinker's health -- and that these stores failed to do so.
+The coffee companies argued in court that the level of acrylamide in coffee should be considered safe under the law and that the health benefits of coffee essentially outweigh the risk. The court did not agree.
+At least 13 of the defendants had settled prior to this decision and agreed to give a warning, including 7-Eleven, according to Metzger. The other coffee companies, including Starbucks, waited for a court decision. 
+"Coffee has been shown, over and over again, to be a healthy beverage. This lawsuit has made a mockery of Prop 65, has confused consumers, and does nothing to improve public health," William Murray, president and CEO of the National Coffee Association, said in an emailed statement.
+Coffee has been much studied over the years, and research has shown that it provides several health benefits, including lowering your risk of early death. It may reduce your risk of heart disease, multiple sclerosis, Type 2 diabetes, Alzheimer's and even some cancers like melanoma and prostate cancer. However, a review by the International Agency for Research on Cancer, a branch of the World Health Organization, found that drinking very hot beverages was "probably carcinogenic to humans" due to burns to the esophagus; there was no relation to the chemical acrylamide.
+The science on human exposure to acrylamide still needs "future studies," according to a 2014 review of scientific research on the chemical's relationship to a wide variety of cancers in the Journal of Nutrition and Cancer.
+In addition to coffee, acrylamide can be found in potatoes and baked goods like crackers, bread and cookies, breakfast cereal, canned black olives and prune juice, although its presence is not always labeled. It's in some food packaging and is a component of tobacco smoke. According to the National Cancer Institute, people are exposed to "substantially more acrylamide from tobacco smoke than from food."
+In 2002, the International Agency for Research on Cancer classified acrylamide as a group 2A carcinogen for humans based on studies done in animals. Studies done on humans have found "no statistically significant association between dietary acrylamide intake and various cancers," according to the 2014 research review.
+A few additional studies have seen an increased risk for renal, ovarian and endometrial cancers; however, "the exposure assessment has been inadequate leading to potential misclassification or underestimation of exposure," according to the 2014 research review.
+Even the studies showing cancer links between acrylamide in rats and mice used doses "1,000 to 100,000 times higher than the usual amounts, on a weight basis, that humans are exposed to through dietary sources," the research review said.
+Humans are also thought to absorb acrylamide at different rates and to metabolize it differently than rodents, earlier research showed.
+The National Toxicology Program's Report on Carcinogens considers acrylamide to be "reasonably anticipated to be a human carcinogen."
+The Food and Drug Administration website says it "is still in the information gathering stage" on the chemical, but it suggested ways for consumers to cut it out of their diet. The FDA also provided guidance to the industry intended to suggest a range of approaches companies could use to reduce acrylamide levels. The recommendations are only a guide and are "not required," according to the website.
+California added acrylamide to its carcinogen list in January 1990, and the state has successfully taken companies to court over it.
+In 2008, the California attorney general settled lawsuits against Heinz, Frito-Lay, Kettle Foods and Lance Inc. when the companies agreed to reduce the levels of acrylamide found in potato chips and French fries.
+In 2007, fast food restaurants in California posted acrylamide warnings about fries and paid court penalties and costs for not posting the warnings in prior years.
+"We have a huge cancer epidemic in this country, and about a third of cancers are linked to diet," Metzger said. "To the extent that we can get carcinogens out of the food supply, logically, we can reduce the cancer burden in this country. That's what this is all about."
+Companies now have until April 10 to file objections to the proposed decision, Metzger said, and then there should be a final decision. A judge will then help decide what the penalties and remedy should be, if companies don't settle before then. 
+A Cap Ferrat mansion that was once home to Belgian King Leopold II has gone on the market for 350 million euros ($410 million) -- making it the most expensive home for sale in the world.
+Villa Les Cèdres was built in 1830. The 18,000-square-foot mansion sits within 35 acres of landscaped grounds on the Saint-Jean-Cap-Ferrat coast. Its rooms are ornately appointed with paneling, coffered ceilings, period moldings and elaborate chandeliers.
+According to Bloomberg, its library holds some 3,000 books, including a 17th-century botanical codex, which is also for sale, alongside carpets, paintings and furniture from the villa.
+King Leopold bought Villa Les Cèdres in 1904 and expanded its grounds. His blue-and-gold sigil is mounted on one of the sitting room's walls, while portraits of his mistress still hang in the rooms.
+Villa Les Cèdres was later owned by the Marnier-Lapostolle family (of Grand Marnier fame) who cultivated its cedar and palm trees, as well as the olive groves and orchards surrounding the French property, some of which date back 300 years.
+Italian distiller Davide Campari-Milano SpA acquired the 14-bedroom home last year, and it's now offered for sale via Savills.
+If the Saint-Jean-Cap-Ferrat home goes for its asking price, it will become the most expensive residential sale in history. It trumps LA's Clampett estate in Bel Air, which listed in August for $350 million. 
+India is building a new city to give global investors an easy way into its booming economy.
+
+Gradually mushrooming on an otherwise barren 886-acre parcel of land in Gujarat -- Prime Minister Narendra Modi's home state -- is a small collection of buildings that India hopes will one day rival financial centers like Singapore, Dubai and Hong Kong.
+
+It's called Gujarat International Finance-Tec City, or GIFT City.
+
+"Except for the fact that we are not sitting in Singapore and GIFT City is not Singapore, I think from a business perspective we have everything that is required," Ajay Pandey, the city's CEO, told CNN. 
+ Two stock exchanges were established in the city last year, and government exemptions recently made trading virtually tax-free. The city will also have its own financial regulator, part of an effort to reduce red tape and bureaucracy faced by foreign investors.
+
+Pandey and other city leaders boast that the tax breaks, low property prices and other incentives mean that moving operations to GIFT City have helped some companies reduce costs by up to 80%.
+
+"For a foreigner, landing in GIFT is more like landing in other financial centers," said Dipesh Shah, who heads the city's financial services operations. "It gives you all the competitive tax regimes which you are used to outside India."
+
+Foreign investors have long been attracted by India's potential. Its economy grew by 7.2% in the final three months of 2017 -- faster than China -- after recovering from the effects of a shock cash ban and a disruptive tax overhaul. 
+ Luring foreign investors is one stated goal, but the city may also encourage Indians to invest at home.
+
+The new exchanges based in the city, including one called India INX launched this year by the Bombay Stock Exchange, are the only ones in India to allow trading in US dollars.
+
+A recent decision by India's major stock exchanges to stop sharing data with their foreign counterparts could also help funnel more trading back to the city. 
+ "Eventually GIFT city should become a vehicle or a place for people from across India like Hong Kong has acted for China in the last 30 or 40 years," said Bombay Stock Exchange CEO Ashishkumar Chauhan.
+
+"We think the India INX will provide a platform to corporates and investors from abroad to meet, trade and invest in the growth story of India," he added.
+
+Investors are taking notice -- when trading started 15 months ago, the exchange hosted daily trading worth around $1 million. On Monday, that number crossed $500 million for the first time.
+
+"The moment you hit close to half a billion dollars, that's the time that some of the big names of the world -- JP Morgan (JPM), Morgan Stanley (MS) and others -- begin to step in," said Pandey. "Things are beginning to roll." 
+ Next on the agenda? Getting people to actually live there.
+
+The city currently consists of just a handful of structures -- three large office buildings to which workers are bussed from surrounding areas, a school and a data center. Its first residences will be ready by May, and a four-tower World Trade Center complex is expected to be completed in the next two years.
+
+Transportation links are good: Ahmedabad airport is only a 25 minute drive. 
+ GIFT City has already attracted close to $2 billion in real estate investment, and Pandey expects that number could eventually rise to nearly $11 billion.
+
+The CEO admits that competing with Singapore or Hong Kong is still a long way off.
+
+"Those cities were not built overnight... we have a lot of catching up to do," he said. "If you look at it, the right set of building blocks are being put in place." 
+Searching the shoreline sediment of British Columbia's Calvert Island, researchers uncovered 29 footprints that are 13,000 years old. The footprints belonged to two adults and a child, according to a study published Wednesday in the journal PLOS-ONE.
+"Fossilized footprints are rarely found in archaeological sites, although are (known) from coastal areas where they are sometimes exposed by erosion," Duncan McLaren, lead study author and assistant professor of anthropology at the University of Victoria and the Hakai Institute, wrote in an email.
+
+During the last ice age, which ended around 11,700 years ago, many researchers believe, humans moved from Asia using a land bridge to reach North America -- now the west coast of British Columbia and south coastal regions of Canada.
+But it's not an easy route for researchers to investigate. Today, Canada's Pacific coast is covered with dense forests and can be reached only by boat. But Calvert Island was worth the trouble because during that ice age, the sea level there was between 6 and 9 feet lower than it is now. 
+The researchers were looking for archaeological evidence of plant fossils and deposits. They weren't expecting to find footprints. 
+First, they found one. That changed the direction of their research, and during more excavations, they uncovered a total of 29 footprints. There were other partial footprint-like depressions, but evidence of trampling made them harder to discern.
+The 29 footprints had distinct sizes, showing three barefoot individuals. Impressions of their arches, toes and heels were clearly visible. They would equate today with a woman's size 8-9, a junior's size 8 and a woman's size 3. Some of the heel prints tend to drag, implying that they slipped in the shoreline mud. 
+They aren't in a line but rather a congregation of footprints showing concentrated activity in the area. Some are side by side, suggesting that an individual stood with feet slightly apart, facing inland.
+"Primarily the three different sizes of footprints found conjures up the image of a nuclear family or small group of people using the area," McLaren wrote. "Most of the footprints face inland ... and they may represent a place where people were disembarking from watercraft before moving to a drier area."
+This finding is particularly impactful because archaeological evidence of humans in the area during that time period is lacking. But their presence may explain other archaeological finds in nearby and surrounding areas. 
+"It shows that early peoples in the Americas were using watercraft to explore and thrive in outer coastal areas," McLaren said. "It adds to the body of evidence that the coast was a viable means by which peoples reached the Americas during the last ice age."
+Going forward, he said, researchers are particularly interested in finding the area where these people lived.
+"This line of research is really in its infancy on the coast," McLaren said. "We are working to collect more information on areas that were ice free during the last ice age and reconstructing where sea level was at different times in different places. This paleo-environmental work will then be used to inform the search for early period sites along the formerly glaciated Pacific shoreline of Canada."
+These aren't the oldest footprints found: Early human footprints in Africa have been dated to 3.6 million years ago. But the rarity of fossilized footprints, and where they were found, tells an interesting story.
+"These tracks are faint, but the size, shape and number of tracks are convincing," Neil Thomas Roach of the Department of Human Evolutionary Biology at Harvard University wrote in an email. Roach was unaffiliated with the study. 
+"While the presence of modern humans along the Pacific coast of Canada 13,000 years ago shouldn't be surprising, this intensive usage of this coastline environment that has not been shown before," he said.
+"I think this study raises more questions than it answers, which is a good thing. Only with further study and excavation of these shoreline surfaces will we fully understand how many track makers were present, what they were doing on these landscapes, and how important shoreline environments were to their survival."
+More companies are ditching passwords and using fingerprints and other biometrics to stop hackers.
+
+"We're seeing a very rapid evolution from what used to be passwords, then smart cards, and now to biometrics," said Alex Simons, director of program management in Microsoft's identity division.
+
+Biometric authentication uses face, fingerprint or iris scans to quickly confirm a person's identity. You probably already use itap by touching the home button to unlock your phone.
+
+In the workplace, employees are increasingly using biometrics to log in to phones and computers, and to access data stored on those devices and in the cloud.
+
+Spiceworks, a professional network for people in the IT industry, says nearly 90% of businesses will use biometric authentication by 2020, up from 62% today. Fingerprint scanning is currently the most common type of biometric authentication: 57% of organizations use it. Far fewer, just 14%, use facial recognition.
+
+Companies such as Microsoft (MSFT) and Facebook (FB) are trying to get rid of passwords completely.
+
+In 2015, Microsoft introduced Windows Hello with Windows 10. The new software uses face scans or fingerprints to log in to Windows devices. More than 50 million people use Windows Hello to log in to their PCs both in the home and at the office.
+
+The Windows 10 Spring Creators Update will include a new authentication standard developed in collaboration with other tech companies, including Google. Called FIDO 2.0, the standard will enable Windows consumers to use multiple devices — including third-party security keys or a security monitors that track your heart rate — to automatically log in to their computers without a password. 
+ "Passwords are the weak link. They have terrible characteristics about them, and they're hard for you to keep track of," Simons said. "Passwords are also super expensive for companies."
+
+At Microsoft, Simons said he spends over $2 million in help desk calls a month helping people change their passwords.
+
+Passwords are still widely used, of course, and one benefit is that they're easy to change if they're stolen. But you can't change your face or fingerprints, and biometrics can be stolen, too. In 2015, a breach at the federal Office of Personnel Management leaked 5.6 million people's fingerprints.
+
+It's unclear for now what hackers can do with fingerprints. Experts worry that if they're adopted widely for authentication, it could lead to widespread identity theft. Researchers have already shown it's possible to use spoofed fingerprints to log in to smartphones.
+
+Researchers have already tricked facial recognition by using a photo on older Windows devices and a Samsung smartphone.
+
+Companies and consumers are also worried about third parties that are getting access to people's face scans through products like the iPhone X. Last year, Apple introduced facial recognition unlocking technology on the iPhone X and privacy advocates cited concerns about third-party companies having access to people's face scans. But the data shared with iOS developers reportedly can't unlock phones.
+
+Meanwhile, Simons said biometrics collected with Windows are stored on the device directly and not shared to the cloud or with other third-party companies. Microsoft also provides the option to use a pin number instead of a biometric scan for anyone who is wary of sharing physical attributes.
+
+State laws restricting biometric collection have hindered face and fingerprint-scanning tools or apps in some states. In 2008, Illinois passed a law that requires companies to let users know when biometric identifiers are collected and how they will be used. It's also necessary to obtain consent from users before collecting and storing that data. In 2009, Texas passed a similar law.
+
+Data protection regulations about to go into effect in the European Union will also require consent before processing biometric data.
+
+Biometrics will probably become just one part of a broader security strategy, perhaps as a second-factor login in addition to a password. Spiceworks' data shows just 10% of information technology workers think biometrics are secure enough to be the only form of authentication.
+
+Other companies are using employee behavior to detect hacks.
+
+Security firm BioCatch provides tools for companies to learn employees' digital behavior and identify when an unauthorized person is trying to access information.
+
+Companies can add BioCatch software to apps and websites. It runs in the background to build a "behavior profile" of a user, and learns activities like how someone holds the phone, whether they type with one or two hands, and how they scroll or toggle between screens.
+
+"The connected economy is forcing a need to redefine digital identity and to rely on new ways to make sure people are who they claim to be," said Frances Zelazny, vice president at BioCatch. "Your name and your pet's name, knowing that does not guarantee you really are a legitimate person."
+
+Banks and the financial services industry are most interested in behavioral biometric technology. The Royal Bank of Scotland uses BioCatch.
+
+People may be cautious about having their behavior tracked, but the trend toward biometrics should only grow.
+
+"As we get better at explaining to the world how it works and as refine the software to make it easier to setup and use, more people are using it," Simons said. "Rather than trying to convince people that we're right, we're trying to give people options. We are trying to do everything in an upstanding manner to protect your privacy." 
+A startup has upped the ante in the race to develop self-driving vehicles.
+
+Two days after Uber announced self-driving truck operations in Arizona, which feature a backup driver as a precaution, Starsky Robotics said it has completed a seven-mile drive without a human in the vehicle.
+
+In mid-February, Starsky conducted the test on a closed portion of Route 833 in Hendry County, Florida, with no traffic.
+
+The 20,000-pound unmanned robotic truck drove 35 mph during the run.
+
+Starsky is the first company to publicly test an empty cabin for autonomous trucks. Its aim is to make a delivery without a human present by year's end.
+
+Given current regulations, Starsky Robotics CEO Stefan Seltz-Axmacher said its trucks can operate in large states such as Texas, Florida, Arizona and Nevada. Before Starsky's trucks cross state lines, more regulations are needed. An autonomous vehicle bill is currently stalled in the Senate, but it only addresses self-driving car, not trucks.
+
+According to Hendry County commissioner Charles Chapman, Starsky's self-driving trucks could make it easier for his airport to receive food deliveries from Central and South America for local businesses.
+
+"There's always a risk factor with anything that's an emerging technology," Chapman said. "We pride ourselves on taking measured risks."
+
+Although the test was a success, it ran into a hiccup the day before: The drive was aborted after the power accidentally went out at Starsky's teleoperations center in Plantation, Florida. But it was programmed to stop itself if it ever lost connection with the center, according to Seltz-Axmacher. 
+ Human pilots back at Starsky's teleoperation centers pilot the trucks from highway exits to distribution centers, and vice versa. The startup chose this technique to speed up how quickly it could commercialize the technology.
+
+According to critics, self-driving technology may be rushed to the public without reasonable safeguards and regulations.
+
+"When CEOs put their own kids in a driverless car and let it take their own kids off without anyone in the car, that's how you know they're ready," Missy Cummings, an engineering professor at Duke University, told CNN.
+
+Cummings has called for a "vision test" for all autonomous vehicles to prove the machines can effectively identify things.
+
+One potential landmine for autonomous vehicles is what's called "adversarial images," which are doctored pictures that fool an artificial intelligence system. Researchers have shown how placing a handful of stickers on a stop sign could confuse the neural network, which powers the AI system. This means an autonomous vehicle could interpret the stop sign to be a speed limit 45 mph sign.
+
+For the test, however, Starsky concluded its vehicle was ready for public roads with a few controlled elements, such as no traffic and a carefully selected spot.
+
+"If we swerved off the road, it wouldn't be swerving into a concrete barrier or a school bus," Seltz-Axmacher told CNN of the location choice. "[If something happened], it would have swerved into a swamp." 
